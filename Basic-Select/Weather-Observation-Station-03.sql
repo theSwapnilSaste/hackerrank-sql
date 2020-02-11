@@ -4,7 +4,7 @@
                 only. You may print the results in any order, but must 
                 exclude duplicates from your answer. */
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        25-JAN-2019
+-- DATE:        25-JAN-2020
 -- ORACLE
 
 SELECT  DISTINCT city 

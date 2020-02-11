@@ -4,7 +4,7 @@
                 (i.e.: the name attribute) from the Employee table
                 in alphabetical order. */
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        25-JAN-2019
+-- DATE:        25-JAN-2020
 -- ORACLE
 SELECT      name
 FROM        employee

@@ -5,7 +5,7 @@
                 find the difference between the total number of CITY entries 
                 in the table and the number of distinct CITY entries in the table. */
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        25-JAN-2019
+-- DATE:        25-JAN-2020
 -- ORACLE
 SELECT  COUNT(City)-COUNT(DISTINCT City) 
 FROM    Station;

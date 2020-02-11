@@ -5,7 +5,7 @@
                 greater than $2000 per month who have been employeesfor less than
                  10  months. Sort your result by ascending employee_id. */
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        25-JAN-2019
+-- DATE:        25-JAN-2020
 -- ORACLE
 SELECT   name 
 FROM     employee 

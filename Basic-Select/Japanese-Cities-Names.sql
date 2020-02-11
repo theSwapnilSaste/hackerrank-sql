@@ -3,7 +3,7 @@
 /* DESCRIPTION: Query the names of all the Japanese cities in the CITY table. 
                 The COUNTRYCODE for Japan is JPN.
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        25-JAN-2019
+-- DATE:        25-JAN-2020
 -- ORACLE
 
 SELECT  Name

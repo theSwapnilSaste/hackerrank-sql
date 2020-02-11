@@ -3,7 +3,7 @@
 /* DESCRIPTION: Query the names of all American cities in CITY with populations 
                 larger than 120000. The CountryCode for America is USA. */
 -- AUTHOR:      https://github.com/theSwapnilSaste/
--- DATE:        24-JAN-2019
+-- DATE:        24-JAN-2020
 -- ORACLE
 
 SELECT  Name
